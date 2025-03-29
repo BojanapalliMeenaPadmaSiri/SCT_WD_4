@@ -7,14 +7,19 @@ A simple and interactive To-Do List Application built using HTML, CSS, and JavaS
 Features
 
 Task Management – Add tasks with a due date and time.
+
 Categorized Views – View tasks by Current Week, Current Month, and All Tasks.
+
 Task Completion – Mark tasks as done.
+
 Task Deletion – Remove tasks when completed.
+
 Responsive UI – Clean and modern design.
 
 Technologies Used
 
 HTML & CSS – For structuring and styling the app.
+
 JavaScript – For dynamic functionality and task management.
 
 
