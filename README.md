@@ -1,5 +1,7 @@
 #SCT_WD_4
+
 To-Do List Application
+
 A simple and interactive To-Do List Application built using HTML, CSS, and JavaScript. This project helps users add, manage, and organize tasks efficiently with an intuitive UI.
 
 Features
