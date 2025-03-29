@@ -26,5 +26,7 @@ JavaScript – For dynamic functionality and task management.
 Learning Outcomes
 
 Improved JavaScript event handling and DOM manipulation.
+
 Practiced CSS styling for better UI/UX.
+
 Gained experience in building interactive web applications.
